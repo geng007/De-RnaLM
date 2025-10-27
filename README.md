@@ -60,7 +60,6 @@ python main.py --data_path ./dataset/Lincs_L1000.h5ad --epochs 10 --batch_size 1
 | `use_cls_token` | True | 是否使用CLS token |
 | `loss` | `['MSE']` | 损失函数类型（NB, GUSS, MSE） |
 
-<img width="1742" height="1125" alt="image" src="https://github.com/user-attachments/assets/715d5139-53fd-4c21-ba34-5a6ecdf3f07e" />
 
 ## 贡献与反馈
 欢迎提交PR或在Issues中反馈问题、建议。如果本项目对您有帮助，欢迎Star支持！
